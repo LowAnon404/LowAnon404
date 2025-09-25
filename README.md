@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=AnonLow404;Professional+Security+Researcher;Ethical+Hacker;Red+Team+Operator" alt="AnonLow404 Title">
+</h1>
 
-<!--
-**FarizChiper/FarizChiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnonLow404&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://img.shields.io/badge/Status-Online-success?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/Security-Level_9-critical?style=flat&logo=shield">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ **About Me**
+
+```python
+class AnonLow404:
+    def __init__(self):
+        self.name = "Anonymous Low"
+        self.role = "Cybersecurity Specialist"
+        self.specialties = [
+            "Penetration Testing",
+            "Malware Analysis", 
+            "Network Security",
+            "Cryptography",
+            "Reverse Engineering"
+        ]
+        self.tools = {
+            "OS": ["Kali Linux", "Parrot OS", "Arch Linux"],
+            "Languages": ["Python", "C++", "JavaScript", "Bash", "Assembly"],
+            "Frameworks": ["Metasploit", "Burp Suite", "Wireshark", "Ghidra"]
+        }
+    
+    def motto(self):
+        return "Security Through Obscurity is Not Security"
+
+me = AnonLow404()
