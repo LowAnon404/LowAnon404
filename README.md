@@ -10,31 +10,6 @@
 
 ---
 
-## 🛡️ **About Me**
-
-```python
-class AnonLow404:
-    def __init__(self):
-        self.name = "Anonymous Low"
-        self.role = "Cybersecurity Specialist"
-        self.specialties = [
-            "Penetration Testing",
-            "Malware Analysis", 
-            "Network Security",
-            "Cryptography",
-            "Reverse Engineering"
-        ]
-        self.tools = {
-            "OS": ["Kali Linux", "Parrot OS", "Arch Linux"],
-            "Languages": ["Python", "C++", "JavaScript", "Bash", "Assembly"],
-            "Frameworks": ["Metasploit", "Burp Suite", "Wireshark", "Ghidra"]
-        }
-    
-    def motto(self):
-        return "Security Through Obscurity is Not Security"
-
-me = AnonLow404()
-
 
 
 🔥 GitHub Stats
