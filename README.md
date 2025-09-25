@@ -34,3 +34,13 @@ class AnonLow404:
         return "Security Through Obscurity is Not Security"
 
 me = AnonLow404()
+
+
+
+🔥 GitHub Stats
+<div align="center">
+https://github-readme-streak-stats.herokuapp.com/?user=AnonLow404&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api?username=AnonLow404&show_icons=true&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=AnonLow404&layout=compact&theme=dark&hide_border=true
+
+</div>
